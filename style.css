@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(205, 48, 74);
+}
+.box{
+    color: white;
+    margin-top: 80px;
+   
+}
+.box a{
+    margin: 26px;
+    color: white;
+}
+.box {
+    margin-top: 80px;
+    background-color: white;
+    overflow:auto;
+}
